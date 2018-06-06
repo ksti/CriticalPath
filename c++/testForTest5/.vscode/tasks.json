@@ -1,0 +1,61 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build for test debug",
+            "type": "shell",
+            // "command": "g++ -std=c++11",
+            "command": "g++",
+            "args": [
+                "-std=c++11",
+                "-I",
+                "classes",
+                "-I",
+                "libs",
+                "-I",
+                "extern",
+                "-I",
+                "__test",
+                "-D",
+                "DEBUG",
+                "-g",
+                "main/main.cpp",
+                "-o",
+                "out/main"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "build for test release",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-std=c++11",
+                "-I",
+                "classes",
+                "-I",
+                "libs",
+                "-I",
+                "extern",
+                "-I",
+                "__test",
+                "-g",
+                "main/main.cpp",
+                "-o",
+                "out/main"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [
+                "$gcc"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,970 @@
+{
+    "state": true,
+    "message": "success.",
+    "data": {
+        "edgeList": [
+            {
+                "task": {
+                    "taskName": "启动方案设计任务书"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "c69b88ea-c160-8956-bd7b-0c66bb20605e",
+                    "length": "169"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "c69b88ea-c160-8956-bd7b-0c66bb20605e",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "编制方案设计"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "a06a1c99-82da-6804-c620-043e258321fa",
+                    "length": "267"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "a06a1c99-82da-6804-c620-043e258321fa",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "办理修建性详细规划批复"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "4e13ffaf-2484-e9c9-6cc8-4041bc33e3b9",
+                    "length": "44"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "4e13ffaf-2484-e9c9-6cc8-4041bc33e3b9",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "编制初步设计"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "789621cd-5472-fe6c-1482-f85c4cf177bd",
+                    "length": "169"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "789621cd-5472-fe6c-1482-f85c4cf177bd",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "办理建设工程规划许可证"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "fea8d601-e4ef-02ac-c174-0667b0593d40",
+                    "length": "93"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "fea8d601-e4ef-02ac-c174-0667b0593d40",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "编制施工图设计任务书※"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "3aaf56c3-a774-75a7-f1da-a462194b1213",
+                    "length": "204"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "3aaf56c3-a774-75a7-f1da-a462194b1213",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "编制主体施工图"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "f82660be-a85e-4488-2c85-58af8ce68f0b",
+                    "length": "167"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "f82660be-a85e-4488-2c85-58af8ce68f0b",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "施工图外审"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "f064029b-a6aa-f43d-e4eb-92224132d7c5",
+                    "length": "274"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "f064029b-a6aa-f43d-e4eb-92224132d7c5",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "办理建设工程施工许可证"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "cc855044-04b2-e482-578e-8a6e9cec38c6",
+                    "length": "177"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "cc855044-04b2-e482-578e-8a6e9cec38c6",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "编制小市政管网综合施工图"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "08daca68-be0c-470c-6ce7-07a1849e1106",
+                    "length": "169"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "08daca68-be0c-470c-6ce7-07a1849e1106",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "启动景观设计任务书"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "6070ba0b-29d8-f77a-9ac3-7926161c5158",
+                    "length": "267"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "6070ba0b-29d8-f77a-9ac3-7926161c5158",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "编制景观方案设计"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "e690250e-1f49-334d-723f-33edb6998fce",
+                    "length": "196"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "e690250e-1f49-334d-723f-33edb6998fce",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "组织销售面积预测及备案工作指引"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "ac99f4ff-5e21-28a6-cc8f-12a9a8c1505a",
+                    "length": "273"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "ac99f4ff-5e21-28a6-cc8f-12a9a8c1505a",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "办理园林意见咨询"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "6e4c4845-a050-fed9-851d-44996a775cc2",
+                    "length": "196"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "6e4c4845-a050-fed9-851d-44996a775cc2",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "地质详勘"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "dcda0a23-8c3c-ff25-f9ac-5b1dab5be1e8",
+                    "length": "253"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "dcda0a23-8c3c-ff25-f9ac-5b1dab5be1e8",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "编制室内方案设计任务书※"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "9ef9613c-a544-79af-0674-b83deb3ba5ac",
+                    "length": "288"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "9ef9613c-a544-79af-0674-b83deb3ba5ac",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "室内方案设计（户内）※"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "a629cee5-7182-2c8b-15c8-1834a0b92102",
+                    "length": "267"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "a629cee5-7182-2c8b-15c8-1834a0b92102",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "1"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "27ceed4d-8692-8f58-15f9-b392a4916d2c",
+                    "length": "1"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "27ceed4d-8692-8f58-15f9-b392a4916d2c",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "2"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "566d50d5-6ecf-494c-bdd8-e3ae396eb6f1",
+                    "length": "1"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "566d50d5-6ecf-494c-bdd8-e3ae396eb6f1",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "3"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "451867c6-b017-eeb1-79bf-42d000597fae",
+                    "length": "1"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "451867c6-b017-eeb1-79bf-42d000597fae",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "11"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "ee8259dd-e602-fc42-6531-e42458781841",
+                    "length": "1"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "ee8259dd-e602-fc42-6531-e42458781841",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "22"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "ca4cde86-4297-b2c3-ee2c-df148154b36f",
+                    "length": "1"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "ca4cde86-4297-b2c3-ee2c-df148154b36f",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "33"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "a62d4b1a-f16a-a6c2-e0da-0d50d19a4f86",
+                    "length": "1"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "a62d4b1a-f16a-a6c2-e0da-0d50d19a4f86",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "编制项目申请报告书工作指引"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "b22de8e0-ea69-5c9c-84c8-fb71d513d010",
+                    "length": "1"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "b22de8e0-ea69-5c9c-84c8-fb71d513d010",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "编制签约户型图工作指引"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "e3b6fca8-4a3e-6cea-d101-9313b8ef3930",
+                    "length": "1"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "e3b6fca8-4a3e-6cea-d101-9313b8ef3930",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "编制工程管理策划书工作指引"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "71f51aa4-5c69-048a-7ef6-14c2587685ef",
+                    "length": "1"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "71f51aa4-5c69-048a-7ef6-14c2587685ef",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "办理立项核准批复工作指引"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "240d7f1b-f247-c90e-2cbf-938aa77924e9",
+                    "length": "1"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "240d7f1b-f247-c90e-2cbf-938aa77924e9",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "44"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "8492046d-f1e4-c79f-8446-d275633094c9",
+                    "length": "1"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "8492046d-f1e4-c79f-8446-d275633094c9",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "办理建设用地规划许可证工作指引"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "8fdaba43-ce51-a35c-170b-19b7f6ceaec1",
+                    "length": "1"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "北京_远洋傲北_一期_项目开发计划"
+                },
+                "plan": {
+                    "planName": "北京_远洋傲北_一期_项目开发计划",
+                    "planCode": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+                },
+                "relation": {
+                    "startPoint": "8fdaba43-ce51-a35c-170b-19b7f6ceaec1",
+                    "endPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "length": "0"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "办理商品房预（销）售许可证工作指引"
+                },
+                "plan": {
+                    "planName": "天津_远洋红熙郡_二期南地块_项目开发计划",
+                    "planCode": "3a07b3a8-83eb-919b-44eb-af75a176d011"
+                },
+                "relation": {
+                    "startPoint": "-1",
+                    "endPoint": "8a56234f-1e20-b6c9-47c1-1c10f73b092e",
+                    "length": "1"
+                }
+            },
+            {
+                "task": {
+                    "taskName": "天津_远洋红熙郡_二期南地块_项目开发计划"
+                },
+                "plan": {
+                    "planName": "天津_远洋红熙郡_二期南地块_项目开发计划",
+                    "planCode": "3a07b3a8-83eb-919b-44eb-af75a176d011"
+                },
+                "relation": {
+                    "startPoint": "8a56234f-1e20-b6c9-47c1-1c10f73b092e",
+                    "endPoint": "3a07b3a8-83eb-919b-44eb-af75a176d011",
+                    "length": "0"
+                }
+            },
+            {
+                "task": null,
+                "plan": null,
+                "relation": {
+                    "startPoint": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6",
+                    "endPoint": "0",
+                    "length": "0"
+                }
+            },
+            {
+                "task": null,
+                "plan": null,
+                "relation": {
+                    "startPoint": "3a07b3a8-83eb-919b-44eb-af75a176d011",
+                    "endPoint": "0",
+                    "length": "0"
+                }
+            }
+        ],
+        "vertexList": [
+            {
+                "code": "-1"
+            },
+            {
+                "code": "0"
+            },
+            {
+                "code": "c69b88ea-c160-8956-bd7b-0c66bb20605e"
+            },
+            {
+                "code": "a06a1c99-82da-6804-c620-043e258321fa"
+            },
+            {
+                "code": "4e13ffaf-2484-e9c9-6cc8-4041bc33e3b9"
+            },
+            {
+                "code": "789621cd-5472-fe6c-1482-f85c4cf177bd"
+            },
+            {
+                "code": "fea8d601-e4ef-02ac-c174-0667b0593d40"
+            },
+            {
+                "code": "3aaf56c3-a774-75a7-f1da-a462194b1213"
+            },
+            {
+                "code": "f82660be-a85e-4488-2c85-58af8ce68f0b"
+            },
+            {
+                "code": "f064029b-a6aa-f43d-e4eb-92224132d7c5"
+            },
+            {
+                "code": "cc855044-04b2-e482-578e-8a6e9cec38c6"
+            },
+            {
+                "code": "08daca68-be0c-470c-6ce7-07a1849e1106"
+            },
+            {
+                "code": "6070ba0b-29d8-f77a-9ac3-7926161c5158"
+            },
+            {
+                "code": "e690250e-1f49-334d-723f-33edb6998fce"
+            },
+            {
+                "code": "ac99f4ff-5e21-28a6-cc8f-12a9a8c1505a"
+            },
+            {
+                "code": "6e4c4845-a050-fed9-851d-44996a775cc2"
+            },
+            {
+                "code": "dcda0a23-8c3c-ff25-f9ac-5b1dab5be1e8"
+            },
+            {
+                "code": "9ef9613c-a544-79af-0674-b83deb3ba5ac"
+            },
+            {
+                "code": "a629cee5-7182-2c8b-15c8-1834a0b92102"
+            },
+            {
+                "code": "27ceed4d-8692-8f58-15f9-b392a4916d2c"
+            },
+            {
+                "code": "566d50d5-6ecf-494c-bdd8-e3ae396eb6f1"
+            },
+            {
+                "code": "451867c6-b017-eeb1-79bf-42d000597fae"
+            },
+            {
+                "code": "ee8259dd-e602-fc42-6531-e42458781841"
+            },
+            {
+                "code": "ca4cde86-4297-b2c3-ee2c-df148154b36f"
+            },
+            {
+                "code": "a62d4b1a-f16a-a6c2-e0da-0d50d19a4f86"
+            },
+            {
+                "code": "b22de8e0-ea69-5c9c-84c8-fb71d513d010"
+            },
+            {
+                "code": "e3b6fca8-4a3e-6cea-d101-9313b8ef3930"
+            },
+            {
+                "code": "71f51aa4-5c69-048a-7ef6-14c2587685ef"
+            },
+            {
+                "code": "240d7f1b-f247-c90e-2cbf-938aa77924e9"
+            },
+            {
+                "code": "8492046d-f1e4-c79f-8446-d275633094c9"
+            },
+            {
+                "code": "8fdaba43-ce51-a35c-170b-19b7f6ceaec1"
+            },
+            {
+                "code": "8a56234f-1e20-b6c9-47c1-1c10f73b092e"
+            },
+            {
+                "code": "5ef988d7-bb93-bb2d-4003-7ba7f57c98b6"
+            },
+            {
+                "code": "3a07b3a8-83eb-919b-44eb-af75a176d011"
+            }
+        ]
+    }
+}
